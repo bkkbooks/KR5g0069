@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0069/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0069/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三要達道篇
+  date: '2015-08-29 02:53:41.419117'
+  source:
+    repository: kanripo
+    path: KR5g0069
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0069_000-ZTDZ.yaml, hash: 'sha256:8c0a599be6a5649fd93c67c4ea15ebb269c2268195ddf3a3dc04e467595299af'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0069_000-ZTDZ.markers.yaml, hash: 'sha256:e57663d45432a90d9785b18ca16a195e95c15a3baf35af8ee3427648488e409f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0069_SJB_000-320475b
+    span:
+    - body
+    - 0
+    - 507
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:8cb91db075eb44857a84734a85134988ff24706273cb41a0d5f705872ae3ccd7

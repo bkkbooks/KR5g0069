@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0069/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三要達道篇夫氣受於沖和形成於天地妙用藏於不測真元散乎有作是以茫茫之說若嘉苗而不秀韱韱之論若顛木之不芽其大道嘗病乎不知以為知不損以為損而人視之常若千里之遠矣今修行人當去慮忘思絶塵拂愛試聽吾一說焉吾嘗讀陰符經云九竅之邪在乎三要吾謂知其本矣且誘人之真亂人之神使內觀不明慧照不清者五色也而目力常與之爭焉去人之靈遺人之清而使天鼓不鳴希音不亮者五聲也而耳力常與之較焉一失為榮辱之機一出為善惡之原而是非之由發乎此者言也而口常與之辨焉目焉而與五色爭耳焉而與五聲較口焉而與一切言辨目由是而盲耳由是而聾口由是而訥則真元不存而九邪自此而起焉欲養道者欲去九邪先正三要莫若非禮勿視非禮勿聽非禮勿言顔淵為仁尚慎乎此況養道乎常蔽其目而無色塞其耳而無聲緘其口而無言無色非直無色也無其色色而已若視之以禮何必蔽焉無聲非直無聲也無其聲聲而已若聽之以道何必塞焉無言非直無言也無其言言而已若語之以典何必緘焉視之以禮則五色不為其亂而無眼罪矣聽之以道則五聲不為其淫而無耳罪矣語之以典則一切言不為其愆而無口過矣如是則法眼無不見法聽無不聞法言無不辨而大道常在乎己而物不能漬之今人學道未絶三要以求超真必未之知也吾因議道將此一說幸為衆審以為道用期出世之妙果爾三要達道篇
+  hash: sha256:6d8730ef74aca97a6c25ddaa183de1d228938837c259972b929e5d0578a54ef1
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0069_HFL_000-001a, image: hfl/0999/0999-136.png}
+metadata:
+  title: 三要達道篇
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:53:41.419117'
+  source:
+    repository: kanripo
+    path: KR5g0069/KR5g0069_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:4a8be36ddbf7dfeac07cc42167f61bedb91a3d3155b794173f300a48bc9b125f

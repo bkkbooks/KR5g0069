@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0069/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0069/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三要達道篇
+  date: '2015-08-29 02:53:41.419117'
+  source:
+    repository: kanripo
+    path: KR5g0069
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0069_000-HFL.yaml, hash: 'sha256:683b429899f6dd762e82b04e11fa86abf679fa40a6db48b8d32b70b93322a336'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0069_000-HFL.markers.yaml, hash: 'sha256:9bbb7586e2b6e3a12682464a0c17229823686314679ce1de3b5c207b77af22af'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0069_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 507
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:b301982c25ed79480761f0957a4b3fba57a9207ee877bf8420e991868b347d98
